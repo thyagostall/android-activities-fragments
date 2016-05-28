@@ -1,4 +1,4 @@
-package com.thyago.activities_fragments;
+package com.thyago.activitiesfragments;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

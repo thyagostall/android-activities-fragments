@@ -1,4 +1,4 @@
-package com.thyago.activities_fragments;
+package com.thyago.activitiesfragments;
 
 import org.junit.Test;
 

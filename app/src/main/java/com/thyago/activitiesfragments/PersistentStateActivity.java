@@ -1,18 +1,16 @@
-package com.thyago.activities_fragments;
+package com.thyago.activitiesfragments;
 
-import android.os.PersistableBundle;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
 import android.widget.TextView;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class ActivityPersistentState extends AppCompatActivity {
+public class PersistentStateActivity extends AppCompatActivity {
 
-    private static final String LOG_TAG = ActivityPersistentState.class.getSimpleName();
+    private static final String LOG_TAG = PersistentStateActivity.class.getSimpleName();
     private static final String CREATED_TIME = "createdTime";
     private TextView mCreatedTime;
 
