@@ -2,5 +2,6 @@
     <string name="app_name">Activities-Fragments</string>
 
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank (and static) fragment!!!</string>
+    <string name="hello_blank_static_fragment">Hello blank (and static) fragment!!!</string>
+    <string name="hello_blank_dynamic_fragment">Hello blank (and dynamic) fragment!!!</string>
 </resources>
